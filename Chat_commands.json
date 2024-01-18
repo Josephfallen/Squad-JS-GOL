@@ -1,0 +1,12 @@
+{
+      "plugin": "ChatCommands",
+      "enabled": true,
+      "commands": [
+        {
+          "command": "squadjs",
+          "type": "warn",
+          "response": "This server is powered by SquadJS.",
+          "ignoreChats": ["ChatAll", "ChatTeam"]
+        }
+      ]
+    },

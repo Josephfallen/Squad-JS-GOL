@@ -1,0 +1,8 @@
+{
+  "plugin": "DiscordRcon",
+  "enabled": false,
+  "discordClient": "discord",
+  "channelID": "1188004863024582717",
+  "permissions": { "1188004863024582717" },
+  "prependAdminNameInBroadcast": false
+},
